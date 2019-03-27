@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 default-character-set=latin1
 default-collation=latin1_swedish_ci
+=======
+default-character-set=utf8
+default-collation=utf8_general_ci
+>>>>>>> 1bfad046b946816b8757bd64659f6056b2d5d7a9
